@@ -11,3 +11,4 @@ GitPython
 fpdf2
 pyarrow
 groq
+reportlab
