@@ -10,3 +10,4 @@ requests
 GitPython
 fpdf2
 pyarrow
+groq
