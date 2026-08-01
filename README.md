@@ -38,3 +38,28 @@ The application combines data analytics with Generative AI to provide a simple a
 
 **Report Generation**
 - ReportLab
+## Screenshots
+
+### Home
+
+![Home](screenshots/home.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard 1.png)
+
+### AI Insights
+
+![AI Insights](screenshots/ai-insights.png)
+
+### Ask AI
+
+![Ask AI](screenshots/ask-ai.png)
+
+### Budget Tracker
+
+![Budget Tracker](screenshots/budget-tracker.png)
+
+### Fraud Detection
+
+![Fraud Detection](screenshots/fraud-detection.png)
