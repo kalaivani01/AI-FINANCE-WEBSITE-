@@ -261,20 +261,22 @@ Built with:
 # ------------------------------------
 st.markdown("""
 <div style="
-padding:40px;
-border-radius:28px;
+max-width:700px;
+margin:0 auto;
+padding:18px;
+border-radius:18px;
 background:
 linear-gradient(135deg,#2563EB,#7C3AED,#06B6D4);
 text-align:center;
 box-shadow:0 25px 60px rgba(0,0,0,.35);
-margin-bottom:25px;
+margin-bottom:10px;
 ">
 
-<h1 style="font-size:55px;color:white;">
+<h1 style="font-size:36px;color:white;">
 💰 AI Finance Analyst
 </h1>
 
-<p style="font-size:22px;color:white;">
+<p style="font-size:16px;color:white;">
 
 AI Powered Financial Intelligence Platform
 
