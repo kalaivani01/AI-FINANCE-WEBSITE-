@@ -4,6 +4,10 @@ AI Smart Finance Website is a web application built using Python and Streamlit t
 Users can upload their transaction data, visualize spending patterns, generate AI-based financial summaries, monitor budgets, detect unusual transactions, assess financial health, and download PDF reports.
 The application combines data analytics with Generative AI to provide a simple and interactive personal finance experience.
 
+## Live Demo
+
+🌐 **Website:** https://ai-finance-analyst-kalaivani.streamlit.app/
+
 ## Features
 
 - Upload bank transaction data in CSV format
