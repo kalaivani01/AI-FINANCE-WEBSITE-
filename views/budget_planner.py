@@ -82,3 +82,4 @@ def show_budget_planner(filtered_df):
         💡 <b>Tip:</b> Revisit your budget regularly as your income or spending habits change. Small adjustments over time can have a big impact on your savings.
     </div>
     """, unsafe_allow_html=True)
+
